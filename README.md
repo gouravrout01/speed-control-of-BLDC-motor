@@ -79,10 +79,6 @@ This project replicates a real-time control setup for BLDC motors using:
 
 ---
 
-## 📽️ Based on
-
-This project was inspired by this helpful tutorial:  
-📺 [Speed Control of BLDC Motor using PID - MATLAB/Simulink](https://youtu.be/YSkvN5FEmqc?si=tQnejUryqbK_m5d3)
 
 ---
 
